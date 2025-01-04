@@ -1,0 +1,24 @@
+.authorization {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  align-self: center;
+  margin-top: 100px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 30%);
+
+}
+
+.authorization_header {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 40px;
+  }
+  
+.btn{
+  border-radius: 10px;
+}
+

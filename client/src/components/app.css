@@ -1,0 +1,33 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url('../assets/img/cloud.jpg') no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+#root {
+  width: 100%;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.wrap {
+  width: 65vw;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}

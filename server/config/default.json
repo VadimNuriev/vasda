@@ -1,0 +1,10 @@
+
+  {
+    "serverPort" : 5000,
+    "dbUrl": "mongodb+srv://vadimuq:voda000.@cluster0.iotfyho.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "secretKey": "mern-secket-key",
+    "filePath": "/Users/Vadim/Downloads/test.files/files", 
+    "staticPath": "/Users/Vadim/Downloads/test.files/static"
+  }
+
+
